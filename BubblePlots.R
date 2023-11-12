@@ -12,7 +12,7 @@ data %>%
   ggplot(aes(x = Salary, y = Age, size = Years.of.Experience)) +
     geom_point(alpha = 0.5) +
     scale_size(range = c(1, 10), name = "Years of Experience") +
-    labs(x = "Salary", y = "Education Level", title = "Bubble Plot of Salary Data")
+    labs(x = "Salary", y = "Education Level", title = "Bubble Plot")
 
 
 

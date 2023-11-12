@@ -1,6 +1,6 @@
-# Untitled
+# Beeswarm Plot
 
-https://observablehq.com/d/ad79ff063211e414@630
+https://observablehq.com/@edeli-ws/beeswarm-plot-pac2@632
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,14 +14,14 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/ad79ff063211e414@630.tgz?v=3
+npm install https://api.observablehq.com/d/ad79ff063211e414@632.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "ad79ff063211e414";
+import define from "@edeli-ws/beeswarm-plot-pac2";
 ~~~
 
 To log the value of the cell named “foo”:

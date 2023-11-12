@@ -1,0 +1,14 @@
+{
+  "name": "ad79ff063211e414",
+  "main": "ad79ff063211e414@630.js",
+  "version": "630.0.0",
+  "homepage": "https://observablehq.com/d/ad79ff063211e414",
+  "author": {
+    "name": "Edeli's Workspace",
+    "url": "https://observablehq.com/@edeli-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

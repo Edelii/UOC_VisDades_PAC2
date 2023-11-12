@@ -1,0 +1,11 @@
+Fuentes:
+- Datos: 
+	https://www.kaggle.com/datasets/computingvictor/top1000youtubers
+	https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
+	https://www.google.com/maps/search/hospital/@41.7890062,1.4692806,8z/data=!3m1!4b1?entry=ttu
+	
+- Ejemplos base:
+	https://r-graph-gallery.com/320-the-basis-of-bubble-plot.html
+	https://r-charts.com/part-whole/voronoi-diagram/#:~:text=A%20Voronoi%20diagram%20(or%20Thiessen,Voronoi)%20tessellation%20with%20the%20tile.
+	https://r-graph-gallery.com/bubble_chart_interactive_ggplotly.html	
+	https://observablehq.com/@d3/beeswarm/2?intent=fork

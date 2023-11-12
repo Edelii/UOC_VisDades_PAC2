@@ -1,0 +1,14 @@
+{
+  "name": "@edeli-ws/beeswarm-plot-pac2",
+  "main": "ad79ff063211e414@632.js",
+  "version": "632.0.0",
+  "homepage": "https://observablehq.com/@edeli-ws/beeswarm-plot-pac2",
+  "author": {
+    "name": "Edeli's Workspace",
+    "url": "https://observablehq.com/@edeli-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

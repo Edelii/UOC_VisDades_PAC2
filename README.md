@@ -3,4 +3,4 @@ Tenim per una banda els csv font per al Bubble Chart i Beeswarm plot. I per al V
 
 En el fitxer de fonts tenim les fonts utilitzades tant per a les dades com per a exemples de codis.
 
-Per al Beeswarm Plot, es pot utilitzar la carpeta adjunta o bé veure el link públic
+Per al Beeswarm Plot, es pot utilitzar el link públic
